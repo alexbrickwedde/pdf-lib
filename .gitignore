@@ -4,7 +4,6 @@ node_modules/
 coverage/
 ts3.4/
 build/
-dist/
 cjs/
 es/
 
@@ -17,3 +16,6 @@ out.pdf
 *.tgz
 
 .vscode/settings.json
+package-lock.json
+assets/profiles/CoatedFOGRA39.icc
+assets/pdfs/with_print_profile.pdf
