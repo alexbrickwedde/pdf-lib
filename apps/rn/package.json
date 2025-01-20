@@ -10,6 +10,7 @@
   "dependencies": {
     "@pdf-lib/fontkit": "^0.0.4",
     "pdf-lib": "./../..",
+    "PdfLibTester": "file:",
     "react": "16.8.3",
     "react-native": "0.59.10",
     "react-native-pdf": "^6.1.1",
